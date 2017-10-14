@@ -1,7 +1,7 @@
 <link href="../function/industry.css" rel="stylesheet" type="text/css" />
 <?
-//echo $FileName;echo "<br>";
-//echo $_SESSION[HomePage];echo "<br>";
+echo $FileName;echo "<br>";
+echo $_SESSION[HomePage];echo "<br>";
 ?>
 <table width="100%" border="1" cellspacing="0" cellpadding="0" class="Industry">
   <tr>
