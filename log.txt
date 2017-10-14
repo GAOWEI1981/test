@@ -1,0 +1,800 @@
+select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '1507264049'	2017-10-06 12:36:33
+select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '1507264049'	2017-10-06 12:36:37
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:40:01
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:40:01
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '1507264049') a group by creater	2017-10-06 12:40:19
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:41:06
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:41:06
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:41:53
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:41:53
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:06
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:06
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:32
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:32
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:34
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:34
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:38
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:38
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:42
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:42
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:44
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:48
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:54
+select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater	2017-10-06 12:42:54
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '1507264049') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:04
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:04
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:04
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iwwyNN1rbRumk9V_cQq_fsiM' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '1507264049') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:08
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:13
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:13
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw5s8GRPiHQwkBPiT50jRuY8' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:15
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:24
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:24
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw5s8GRPiHQwkBPiT50jRuY8' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:26
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw5s8GRPiHQwkBPiT50jRuY8' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:26
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:49
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:49
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:59
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:43:59
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:46:48
+select a.phone,a.openid,a.name,b.product,b.gross,b.ItemCount,b.MoneyTotal,b.ExpressTotal from (select * from signup_users where owner='oHg4iw1FOFdnh8Be6JwQhhHwMeFE' order by name desc,phone desc) a left join (select a.*,count(AccountID) as ItemCount,sum(cast(a.gross as decimal(8,3))) as MoneyTotal,sum(cast(a.cost_express as decimal(8,3))) as ExpressTotal from (select a.* from (SELECT
+		account_book.id as AccountID,
+		account_book.product,
+		account_book.cost,
+		account_book.price,
+		account_book.count,
+		account_book.gross,
+		orders.ID,
+		orders.creater,
+		signup_users.name,
+		signup_users.openid,
+		account_book.type,
+		account_book.title,
+		account_book.time,
+		account_book.cost_express
+		FROM
+		account_book
+		LEFT JOIN orders ON orders.ID = account_book.OrderID
+		LEFT JOIN signup_users ON signup_users.openid = orders.creater
+		) a where a.type<>'loan' and a.type<>'Loan' and a.time > '0') a group by creater) b on a.openid=b.openid	2017-10-06 12:46:48

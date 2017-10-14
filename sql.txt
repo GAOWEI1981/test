@@ -1,0 +1,263 @@
+update signup_users set password='MmzZMmTpUq1atWLFCBgQIEix48ePHDB' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-04 23:57:05
+update signup_users set phone='15177117377' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-04 23:57:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132625','2','')	2017-10-04 23:57:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132752','2','')	2017-10-04 23:59:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132769','2','')	2017-10-04 23:59:29
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132769','2','')	2017-10-04 23:59:29
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132799','2','')	2017-10-04 23:59:59
+update signup_users set password='MmzZMmTpUq1atWLFCBgQIEix48ePHDB' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-04 23:59:59
+update signup_users set phone='15177117377' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-04 23:59:59
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132799','2','')	2017-10-04 23:59:59
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132845','2','')	2017-10-05 00:00:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132864','2','')	2017-10-05 00:01:04
+update signup_users set password='MmzZMmTpUq1atWLFCBgQIEix48ePHDB' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-05 00:01:04
+update signup_users set phone='15177117377' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-05 00:01:04
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132865','2','')	2017-10-05 00:01:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132928','2','')	2017-10-05 00:02:08
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132931','2','')	2017-10-05 00:02:11
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132941','2','')	2017-10-05 00:02:21
+update signup_users set password='MmzZMmTpUq1atWLFCBgQIEix48ePHDB' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-05 00:02:21
+update signup_users set phone='15177117377' where openid='oHg4iwwyNN1rbRumk9V_cQq_fsiM'	2017-10-05 00:02:21
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507132942','2','')	2017-10-05 00:02:22
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133130','2','')	2017-10-05 00:05:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133174','2','')	2017-10-05 00:06:14
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133295','2','')	2017-10-05 00:08:15
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133308','2','')	2017-10-05 00:08:28
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133435','2','')	2017-10-05 00:10:35
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133440','2','')	2017-10-05 00:10:40
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133444','2','')	2017-10-05 00:10:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507133452','2','')	2017-10-05 00:10:52
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507133892','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:18:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134205','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:23:25
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134207','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:23:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134209','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:23:29
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134216','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:23:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134216','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:23:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134243','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:24:03
+update signup_users set password='YsWr16duXrVq169_---fv3bNGDB' where openid='oHg4iw2B5mnRSiZx4pSqPydIeFWA'	2017-10-05 00:24:03
+update signup_users set phone='13768623050' where openid='oHg4iw2B5mnRSiZx4pSqPydIeFWA'	2017-10-05 00:24:03
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2B5mnRSiZx4pSqPydIeFWA','1507134243','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 00:24:03
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134371','2','')	2017-10-05 00:26:11
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134373','2','')	2017-10-05 00:26:13
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134382','2','')	2017-10-05 00:26:22
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134383','2','')	2017-10-05 00:26:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134387','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:26:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134438','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:18
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134440','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:20
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134445','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:25
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134445','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:25
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134459','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:39
+update signup_users set password='at2bt27dOnTp069ev37dOHDBgwYMGDB' where openid='oHg4iw_Y5HAg7M9nDBiMfIcdEYGA'	2017-10-05 00:27:39
+update signup_users set phone='15207798035' where openid='oHg4iw_Y5HAg7M9nDBiMfIcdEYGA'	2017-10-05 00:27:39
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_Y5HAg7M9nDBiMfIcdEYGA','1507134459','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:27:39
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134664','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:31:04
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134676','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:31:16
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134708','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:31:48
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507134750','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:32:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7sgxchyJ7HzYDt0fBfllxY','1507134777','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:32:57
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135168','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:39:28
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135177','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:39:37
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135227','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:40:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135228','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:40:28
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135230','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:40:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135304','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:41:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135305','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:41:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135309','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:41:49
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135462','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:22
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135464','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:24
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135465','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:25
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135467','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135468','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:28
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135477','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:37
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135478','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 00:44:38
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135724','2','')	2017-10-05 00:48:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135738','2','')	2017-10-05 00:48:58
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135738','2','')	2017-10-05 00:48:58
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135759','2','')	2017-10-05 00:49:19
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135776','2','')	2017-10-05 00:49:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135836','2','')	2017-10-05 00:50:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135867','2','')	2017-10-05 00:51:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135877','2','')	2017-10-05 00:51:17
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135878','2','')	2017-10-05 00:51:18
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135886','2','')	2017-10-05 00:51:26
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135981','2','')	2017-10-05 00:53:01
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135984','2','')	2017-10-05 00:53:04
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507135998','2','')	2017-10-05 00:53:18
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136022','2','')	2017-10-05 00:53:42
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136031','2','')	2017-10-05 00:53:51
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136043','2','')	2017-10-05 00:54:03
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136043','2','')	2017-10-05 00:54:03
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136174','2','')	2017-10-05 00:56:14
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136190','2','')	2017-10-05 00:56:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136201','2','')	2017-10-05 00:56:41
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136201','2','')	2017-10-05 00:56:41
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136315','2','')	2017-10-05 00:58:35
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136319','2','')	2017-10-05 00:58:39
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136322','2','')	2017-10-05 00:58:42
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136332','2','')	2017-10-05 00:58:52
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136396','2','')	2017-10-05 00:59:56
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507136403','2','')	2017-10-05 01:00:03
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507163997','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:39:57
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164015','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:40:15
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164037','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:40:37
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164037','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:40:37
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164055','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:40:55
+update signup_users set password='aNGjxYsWLFCBgQoUq1aNGjx4cuXLFCB' where openid='oHg4iw_U2wbOaaARvk3rwTmtUEsA'	2017-10-05 08:40:55
+update signup_users set phone='13977118609' where openid='oHg4iw_U2wbOaaARvk3rwTmtUEsA'	2017-10-05 08:40:55
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164055','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:40:55
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164073','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:13
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164076','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:16
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164080','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:20
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164081','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:21
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164081','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:21
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164082','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:41:22
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507164252','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:44:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507164264','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:44:24
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164548','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:49:08
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164553','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:49:13
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164576','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:49:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507164634','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 08:50:34
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507165819','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 09:10:19
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507165840','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 09:10:40
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507165858','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 09:10:58
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_U2wbOaaARvk3rwTmtUEsA','1507165911','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 09:11:51
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507167497','2','')	2017-10-05 09:38:17
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507167498','2','')	2017-10-05 09:38:18
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507167510','2','')	2017-10-05 09:38:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507167510','2','')	2017-10-05 09:38:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507167599','2','oHg4iw_Y5HAg7M9nDBiMfIcdEYGA')	2017-10-05 09:39:59
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507180123','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 13:08:43
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw92c36alk_gqZNmzcr1a3rA','1507180136','2','oHg4iwwyNN1rbRumk9V_cQq_fsiM')	2017-10-05 13:08:56
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-mJsz4kqgkEx2vhBmoRI3Y','1507180313','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:11:53
+update signup_users set password='Jky5cOHjxYMmTp0aNGjx4cOnz5cOHDB' where openid='oHg4iw92c36alk_gqZNmzcr1a3rA'	2017-10-05 13:12:07
+update signup_users set phone='13978938874' where openid='oHg4iw92c36alk_gqZNmzcr1a3rA'	2017-10-05 13:12:07
+update signup_users set password='rVqVqVqVqVKFiRIky5cOHjRIECB' where openid='oHg4iw-mJsz4kqgkEx2vhBmoRI3Y'	2017-10-05 13:12:44
+update signup_users set phone='13517592447' where openid='oHg4iw-mJsz4kqgkEx2vhBmoRI3Y'	2017-10-05 13:12:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4ykjMRb8d7pHFdlIb1wsGA','1507180392','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:13:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4ykjMRb8d7pHFdlIb1wsGA','1507180402','2','')	2017-10-05 13:13:22
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507180431','2','')	2017-10-05 13:13:51
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwyfITg-g_t4TMi2M68LVDH8','1507180470','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:14:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw20rUG5nXIzPwSM8hEpR0RY','1507181123','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:25:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw20rUG5nXIzPwSM8hEpR0RY','1507181133','2','')	2017-10-05 13:25:33
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2FLDaWSDvGY-slpoVMmy-U','1507181244','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:27:24
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw3dlJUTjEsQtTMob5zbDMl4','1507181352','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:29:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw2Z-cwT_ddnxeZqTmz73luo','1507181352','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:29:12
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwznQE-_27U10_277z_uVF5Q','1507182242','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:44:02
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwznQE-_27U10_277z_uVF5Q','1507182525','2','')	2017-10-05 13:48:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4WzBEEREjGLdIBKHwRXnU8','1507182834','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:53:54
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw_49gddTfBl60ZBtspar7mw','1507183107','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 13:58:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwKKSDGRgC_9DRA-VZsHEOE','1507183498','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 14:04:58
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw6KPWhJbmeuKwoBuISAQdyQ','1507185193','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 14:33:13
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw6KPWhJbmeuKwoBuISAQdyQ','1507185203','2','')	2017-10-05 14:33:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4fsPpDVJUrOF5Z9Y0lEdH8','1507186502','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 14:55:02
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw3WO-MsYofsG9ZCE3FngfAE','1507186665','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 14:57:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwybZS1OQaR5ynn62fZvKvDw','1507193320','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 16:48:40
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwybZS1OQaR5ynn62fZvKvDw','1507193330','2','')	2017-10-05 16:48:50
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507201478','2','')	2017-10-05 19:04:38
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwybZS1OQaR5ynn62fZvKvDw','1507202929','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-05 19:28:49
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7sgxchyJ7HzYDt0fBfllxY','1507203722','2','')	2017-10-05 19:42:02
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507203837','2','')	2017-10-05 19:43:57
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507204124','2','')	2017-10-05 19:48:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507204538','2','')	2017-10-05 19:55:38
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw9Xkq-kQD6h2AUppkdNftmY','1507210304','2','')	2017-10-05 21:31:44
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-a03q0Qy1bmhDKhMASAEuQ','1507210829','2','')	2017-10-05 21:40:29
+update signup_users set password='8_fv3btWLFCBgQIEChQo0at2bNGDB' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 21:41:56
+update signup_users set phone='13878901580' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 21:41:56
+update signup_users set password='ePnTpUKFiRIky58_--fv3bNmzZMGDB' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:15:59
+update signup_users set phone='13878901580' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:15:59
+update signup_users set password='RIkyZMGDBAAAgQIECBAgQoUKFCB' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:47:43
+update signup_users set phone='13878901580' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:47:43
+update signup_users set password='48_--fvXLlSJkyZMGDBgQIEixYMGDB' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:51:31
+update signup_users set phone='13878981293' where openid='oHg4iw-a03q0Qy1bmhDKhMASAEuQ'	2017-10-05 22:51:31
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507215469','2','')	2017-10-05 22:57:49
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwzokWvufVUF2-Xql2pzdlGs','1507216422','2','')	2017-10-05 23:13:42
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507221721','2','')	2017-10-06 00:42:01
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507223280','2','')	2017-10-06 01:08:00
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw1mTYnstUbuzjKD0JhyurgY','1507250326','2','')	2017-10-06 08:38:46
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw1mTYnstUbuzjKD0JhyurgY','1507250346','2','')	2017-10-06 08:39:06
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507257576','2','')	2017-10-06 10:39:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507257586','2','')	2017-10-06 10:39:46
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw1FOFdnh8Be6JwQhhHwMeFE','1507264797','2','')	2017-10-06 12:39:57
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507264805','2','')	2017-10-06 12:40:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507264815','2','')	2017-10-06 12:40:15
+update signup_users set password='48_-fv37dOnTpUqVq1aNmzZMGjRIECB' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 12:40:23
+update signup_users set phone='15677917278' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 12:40:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507265255','2','')	2017-10-06 12:47:35
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507265265','2','')	2017-10-06 12:47:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507265601','2','')	2017-10-06 12:53:21
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507266195','2','')	2017-10-06 13:03:15
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw1FOFdnh8Be6JwQhhHwMeFE','1507266326','2','')	2017-10-06 13:05:26
+update signup_users set password='48_-fv37dOnTpUqVq1aNmzZMGjRIECB' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:06:05
+update signup_users set phone='15677917278' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:06:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507266427','2','')	2017-10-06 13:07:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw8VSaaTM9v8GvO1gyuZWdYI','1507266818','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-06 13:13:38
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw8VSaaTM9v8GvO1gyuZWdYI','1507266828','2','')	2017-10-06 13:13:48
+update signup_users set password='rVqVqVqVqVKFiRIky5cOHjRIECB' where openid='oHg4iw8VSaaTM9v8GvO1gyuZWdYI'	2017-10-06 13:14:21
+update signup_users set phone='13878911500' where openid='oHg4iw8VSaaTM9v8GvO1gyuZWdYI'	2017-10-06 13:14:21
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw1FOFdnh8Be6JwQhhHwMeFE','1507266943','2','')	2017-10-06 13:15:43
+update signup_users set password='48_-fv37dOnTpUqVq1aNmzZMGjRIECB' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:16:16
+update signup_users set phone='17677098158' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:16:16
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-PoJyefQ34j5g4AokqxpQI','1507267086','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-06 13:18:06
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-PoJyefQ34j5g4AokqxpQI','1507267096','2','')	2017-10-06 13:18:16
+update signup_users set password='PHDhQo06du379_fvXr1aNmTpUKFCB' where openid='oHg4iw-PoJyefQ34j5g4AokqxpQI'	2017-10-06 13:18:38
+update signup_users set phone='18507793353' where openid='oHg4iw-PoJyefQ34j5g4AokqxpQI'	2017-10-06 13:18:38
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507267134','2','')	2017-10-06 13:18:54
+update signup_users set password='48_-fv37dOnTpUqVq1aNmzZMGjRIECB' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:22:31
+update signup_users set phone='15677917278' where openid='oHg4iw1FOFdnh8Be6JwQhhHwMeFE'	2017-10-06 13:22:31
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4v9pDfJgJ_efvHUqUl-77E','1507268126','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-06 13:35:26
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw4v9pDfJgJ_efvHUqUl-77E','1507268137','2','')	2017-10-06 13:35:37
+update signup_users set password='z58_fPHDhQIky58_fv3btWLlyZMGDB' where openid='oHg4iw4v9pDfJgJ_efvHUqUl-77E'	2017-10-06 13:36:36
+update signup_users set phone='18290009120' where openid='oHg4iw4v9pDfJgJ_efvHUqUl-77E'	2017-10-06 13:36:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507271950','2','')	2017-10-06 14:39:10
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507272716','2','')	2017-10-06 14:51:56
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7sgxchyJ7HzYDt0fBfllxY','1507280805','2','')	2017-10-06 17:06:45
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7sgxchyJ7HzYDt0fBfllxY','1507280827','2','')	2017-10-06 17:07:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507284551','2','')	2017-10-06 18:09:11
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507284661','2','')	2017-10-06 18:11:01
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507285062','2','')	2017-10-06 18:17:42
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507285726','2','')	2017-10-06 18:28:46
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7Y1kXDF24_yBGbe1q2kIKw','1507290380','2','')	2017-10-06 19:46:20
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7Y1kXDF24_yBGbe1q2kIKw','1507290390','2','')	2017-10-06 19:46:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507290493','2','')	2017-10-06 19:48:13
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507297055','2','')	2017-10-06 21:37:35
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507297123','2','')	2017-10-06 21:38:43
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507297981','2','')	2017-10-06 21:53:01
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw02XeLASqUh54W3SR4rsx34','1507305282','2','')	2017-10-06 23:54:42
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507305322','2','')	2017-10-06 23:55:22
+update signup_users set password='nzZMGjx48evXr169_fv37duXrVKFCB' where openid='oHg4iw02XeLASqUh54W3SR4rsx34'	2017-10-06 23:55:36
+update signup_users set phone='15977486950' where openid='oHg4iw02XeLASqUh54W3SR4rsx34'	2017-10-06 23:55:36
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507305848','2','')	2017-10-07 00:04:08
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507305887','2','')	2017-10-07 00:04:47
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507306325','2','')	2017-10-07 00:12:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507306385','2','')	2017-10-07 00:13:05
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw0x4ySetmib7Mo4KoAJytKk','1507308077','2','')	2017-10-07 00:41:17
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw0x4ySetmib7Mo4KoAJytKk','1507308087','2','')	2017-10-07 00:41:27
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507315350','2','')	2017-10-07 02:42:30
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwzv2HZbgyguDtZn3f4K4V6A','1507315447','2','')	2017-10-07 02:44:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwzv2HZbgyguDtZn3f4K4V6A','1507315457','2','')	2017-10-07 02:44:17
+update signup_users set password='PHDhw48ePnTJkSpUKFiRIky58ePHDB' where openid='oHg4iwzv2HZbgyguDtZn3f4K4V6A'	2017-10-07 02:46:24
+update signup_users set phone='18378931668' where openid='oHg4iwzv2HZbgyguDtZn3f4K4V6A'	2017-10-07 02:46:24
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwKKSDGRgC_9DRA-VZsHEOE','1507347843','2','')	2017-10-07 11:44:03
+update signup_users set password='9ev379_-fvXrVKlyZMmTp069ePHDB' where openid='oHg4iwwKKSDGRgC_9DRA-VZsHEOE'	2017-10-07 11:44:35
+update signup_users set phone='15077309039' where openid='oHg4iwwKKSDGRgC_9DRA-VZsHEOE'	2017-10-07 11:44:35
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwKKSDGRgC_9DRA-VZsHEOE','1507348128','2','')	2017-10-07 11:48:48
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507351875','2','')	2017-10-07 12:51:15
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507352492','2','')	2017-10-07 13:01:32
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-PoJyefQ34j5g4AokqxpQI','1507352663','2','')	2017-10-07 13:04:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507355194','2','')	2017-10-07 13:46:34
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw3huHzj8GAEm92uWPtewbT4','1507355232','2','oHg4iw5s8GRPiHQwkBPiT50jRuY8')	2017-10-07 13:47:12
+update signup_users set password='27du37du379_-fv3bNmzZsWr1aNGDB' where openid='oHg4iw3huHzj8GAEm92uWPtewbT4'	2017-10-07 13:48:43
+update signup_users set phone='15224544325' where openid='oHg4iw3huHzj8GAEm92uWPtewbT4'	2017-10-07 13:48:43
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507355374','2','')	2017-10-07 13:49:34
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507362247','2','')	2017-10-07 15:44:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7cJ2IX0SXSPWf11BTWi4q0','1507365400','2','')	2017-10-07 16:36:40
+update signup_users set password='rVqVqVqVqVKFiRIky5cOHjRIECB' where openid='oHg4iw7cJ2IX0SXSPWf11BTWi4q0'	2017-10-07 16:37:23
+update signup_users set phone='15224563384' where openid='oHg4iw7cJ2IX0SXSPWf11BTWi4q0'	2017-10-07 16:37:23
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-Zh4gOgtuzPP-SdwnQdm2Y','1507365487','2','')	2017-10-07 16:38:07
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw-Zh4gOgtuzPP-SdwnQdm2Y','1507365497','2','')	2017-10-07 16:38:17
+update signup_users set password='x4cuXLFCBAAAAgQo06dOnTJkSJECB' where openid='oHg4iw-Zh4gOgtuzPP-SdwnQdm2Y'	2017-10-07 16:39:19
+update signup_users set phone='18977909957' where openid='oHg4iw-Zh4gOgtuzPP-SdwnQdm2Y'	2017-10-07 16:39:19
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507368950','2','')	2017-10-07 17:35:50
+insert into signup_users (openid,time,user_type,owner) values('oHg4iwwyNN1rbRumk9V_cQq_fsiM','1507384517','2','')	2017-10-07 21:55:17
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw7sgxchyJ7HzYDt0fBfllxY','1507387674','2','')	2017-10-07 22:47:54
+insert into signup_users (openid,time,user_type,owner) values('oHg4iw5s8GRPiHQwkBPiT50jRuY8','1507391069','2','')	2017-10-07 23:44:29

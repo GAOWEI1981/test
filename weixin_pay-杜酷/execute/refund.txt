@@ -1,0 +1,83 @@
+26<>26	2017-03-21 00:31:09
+26<>26	2017-03-21 00:32:10
+26<>26	2017-03-21 00:32:45
+insert into account_weixin_payment
+				(transaction_id,id,user_open_id,user_id,amount,state,time,expense_id,notify_data,remark) 
+				values('4010002001201703214101346087','G8NWK92X6IK_1490058841_REFUND','oHnHJwM9ZTPD3Adr-V5p8mqOUXxE','MAKE-51CUIEYFF0','-3',
+				'refund_approve','1490324421','1','业务结果：SUCCESS
+错误代码：
+错误代码描述：
+公众账号ID：wxc00f7f73c73a78ae
+商户号：1357300402
+子商户号：
+设备号：
+签名：685594FFF7A6EA946477778FF2A20257
+微信订单号：4010002001201703214101346087
+商户订单号：G8NWK92X6IK_1490058841
+商户退款单号：G8NWK92X6IK_1490058841
+微信退款单号：
+退款渠道：Array
+退款金额：3
+现金券退款金额：0
+************************
+','11111')	2017-03-24 11:00:21
+insert into account_weixin_payment
+				(transaction_id,id,user_open_id,user_id,amount,state,time,expense_id,notify_data,remark) 
+				values('4010002001201703224236886935','0AA4EHUKZPK_1490156951_REFUND','oHnHJwM9ZTPD3Adr-V5p8mqOUXxE','MAKE-WGWMP3EFVL','-7',
+				'refund_approve','1490324709','2','业务结果：SUCCESS
+错误代码：
+错误代码描述：
+公众账号ID：wxc00f7f73c73a78ae
+商户号：1357300402
+子商户号：
+设备号：
+签名：53533A8216C545C11BC1ACA47966CC24
+微信订单号：4010002001201703224236886935
+商户订单号：0AA4EHUKZPK_1490156951
+商户退款单号：0AA4EHUKZPK_1490156951
+微信退款单号：
+退款渠道：Array
+退款金额：7
+现金券退款金额：0
+************************
+','')	2017-03-24 11:05:09
+insert into account_weixin_payment
+				(transaction_id,id,user_open_id,user_id,amount,state,time,expense_id,notify_data,remark) 
+				values('4010002001201703214194744246','OMX8SREYWUM_1490109150_REFUND','oHnHJwM9ZTPD3Adr-V5p8mqOUXxE','MAKE-EG3P3G4JAT','-3',
+				'refund_approve','1490325966','1','业务结果：SUCCESS
+错误代码：
+错误代码描述：
+公众账号ID：wxc00f7f73c73a78ae
+商户号：1357300402
+子商户号：
+设备号：
+签名：0AF061D406CDBF1BF73D530948EFEA95
+微信订单号：4010002001201703214194744246
+商户订单号：OMX8SREYWUM_1490109150
+商户退款单号：OMX8SREYWUM_1490109150
+微信退款单号：
+退款渠道：Array
+退款金额：3
+现金券退款金额：0
+************************
+','1515')	2017-03-24 11:26:06
+insert into account_weixin_payment
+				(transaction_id,id,user_open_id,user_id,amount,state,time,expense_id,notify_data,remark) 
+				values('4010002001201703214101346087','G8NWK92X6IK_1490058841_REFUND','oHnHJwM9ZTPD3Adr-V5p8mqOUXxE','MAKE-51CUIEYFF0','-3',
+				'refund_approve','1490326836','1','业务结果：SUCCESS
+错误代码：
+错误代码描述：
+公众账号ID：wxc00f7f73c73a78ae
+商户号：1357300402
+子商户号：
+设备号：
+签名：3B6FF3AD5E2B4A3877D8732BF8697210
+微信订单号：4010002001201703214101346087
+商户订单号：G8NWK92X6IK_1490058841
+商户退款单号：G8NWK92X6IK_1490058841
+微信退款单号：
+退款渠道：Array
+退款金额：3
+现金券退款金额：0
+************************
+','水电费')	2017-03-24 11:40:36
